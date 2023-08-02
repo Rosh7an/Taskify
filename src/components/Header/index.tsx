@@ -1,6 +1,6 @@
 import { Button, Grid, TextField } from "@mui/material";
 
-import { useEffect, useRef } from "react";
+import { useRef } from "react";
 import { HeaderComponent, headerComponentClasses } from "./styles";
 
 type headerProps = {
