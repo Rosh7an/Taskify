@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Taskify/static/js/main.9b61c6ab.js",
+    "index.html": "/Taskify/index.html",
+    "main.9b61c6ab.js.map": "/Taskify/static/js/main.9b61c6ab.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9b61c6ab.js"
+  ]
+}
