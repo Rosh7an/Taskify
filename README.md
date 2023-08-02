@@ -1,1 +1,2 @@
-An App for Task Management
+#TaskApp
+My Task Manager
