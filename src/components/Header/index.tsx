@@ -28,7 +28,7 @@ export default function Header({
   return (
     <HeaderComponent>
       <Grid container className={headerComponentClasses.heading}>
-        Taskify
+        Bucket List
       </Grid>
       <Grid container className={headerComponentClasses.textInput}>
         <span style={{ display: "flex" }}>
